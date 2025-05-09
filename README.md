@@ -4,7 +4,7 @@ I'm an experienced IT professional focused on delivering and maintaining enterpr
 
 ## What I Do
 
-- Administrator & Developer for a major ITSM platform
+- Administrator & Developer for a major ITSM platform in Higher Education
 - Build practical solutions that bridge technical and non-technical user needs
 - Advocate for well-architected, maintainable, and scalable systems
 
