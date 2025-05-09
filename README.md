@@ -14,7 +14,5 @@ I'm an experienced IT professional focused on delivering and maintaining enterpr
 - Python, JavaScript, and Node.js
 - REST APIs, Webhooks, Automation
 - Microservices Architecture
-- Raspberry Pi (for local dev/test environments)
-- Git, GitHub, GitHub Actions
 
 Thanks for visiting my profile!
